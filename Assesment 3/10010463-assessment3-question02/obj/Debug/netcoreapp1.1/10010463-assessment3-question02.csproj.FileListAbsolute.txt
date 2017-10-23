@@ -1,0 +1,8 @@
+C:\Users\Esh\Desktop\Assesment 3\10010463-assessment3-question02\bin\Debug\netcoreapp1.1\10010463-assessment3-question02.deps.json
+C:\Users\Esh\Desktop\Assesment 3\10010463-assessment3-question02\bin\Debug\netcoreapp1.1\10010463-assessment3-question02.runtimeconfig.json
+C:\Users\Esh\Desktop\Assesment 3\10010463-assessment3-question02\bin\Debug\netcoreapp1.1\10010463-assessment3-question02.runtimeconfig.dev.json
+C:\Users\Esh\Desktop\Assesment 3\10010463-assessment3-question02\bin\Debug\netcoreapp1.1\10010463-assessment3-question02.dll
+C:\Users\Esh\Desktop\Assesment 3\10010463-assessment3-question02\bin\Debug\netcoreapp1.1\10010463-assessment3-question02.pdb
+C:\Users\Esh\Desktop\Assesment 3\10010463-assessment3-question02\obj\Debug\netcoreapp1.1\10010463-assessment3-question02.AssemblyInfo.cs
+C:\Users\Esh\Desktop\Assesment 3\10010463-assessment3-question02\obj\Debug\netcoreapp1.1\10010463-assessment3-question02.dll
+C:\Users\Esh\Desktop\Assesment 3\10010463-assessment3-question02\obj\Debug\netcoreapp1.1\10010463-assessment3-question02.pdb
